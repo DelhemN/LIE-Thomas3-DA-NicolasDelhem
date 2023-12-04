@@ -1,0 +1,5 @@
+Location	Avg. Minutes to Service Goal
+Maternity	30
+ER	40
+Triage	30
+Lab	120
