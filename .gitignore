@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Token.env
 
 # Spyder project settings
 .spyderproject
